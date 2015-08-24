@@ -1,0 +1,7 @@
+name: ChatMute
+main: com.bigcat6.chatmute.ChatMute
+version: 1.2.3
+author: bigcat6
+commands:
+    chatmute:
+        description: Allows you to mute all messages.

@@ -1,0 +1,4 @@
+# Message a player is sent when he mutes chat.
+addmessage: '&aYou have silenced all chat messages.'
+# Message a player is sent when he unmutes chat.
+removemessage: '&aYou have now enabled all chat messages.'
